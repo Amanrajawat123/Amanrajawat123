@@ -35,24 +35,6 @@ I'm a passionate **Computer Science Engineering** student at **Amity University 
 
 ---
 
-## 🚀 Projects
-
-### 🔐 Bank Management System
-**Tech:** C++, OOPs  
-A command-line banking system supporting:
-- Admin login, account creation/modification  
-- Transactions: deposit, withdrawal, transfer  
-- Account search, passbook generation  
-- Built-in validation for secure user inputs
-
-### 📊 Exploratory Data Analysis Projects
-**Tech:** Python, Pandas, Seaborn, Tableau, Power BI  
-- Cleaned, analyzed, and visualized real-world datasets  
-- Created dashboards and charts to derive insights  
-- Focused on storytelling through data
-
----
-
 ## 🏅 Achievements
 
 - ✅ Solved **80+ problems on LeetCode**  
@@ -61,27 +43,10 @@ A command-line banking system supporting:
 
 ---
 
-## 💡 Strengths
-
-- 🔍 Fast learner, adaptable  
-- 🧠 Strong analytical & problem-solving skills  
-- 🤝 Effective communicator and team collaborator  
-
----
-
-## 📌 Interests
-
-- 🧪 Technology & Science  
-- ✈️ Traveling and Exploring Places  
-
----
-
 ## 🔗 Connect with Me
 
 - 📧 [Email](mailto:amanrajawat1512@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-link) *(replace with actual)*  
-- 📄 [Resume](https://github.com/your-username/your-resume-repo) *(replace with actual)*  
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aman-rajawat-5a6582279/)  
 ---
 
 > *"Strive not to be a success, but rather to be of value."* — **Albert Einstein**

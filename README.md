@@ -9,11 +9,9 @@
 ---
 
 ## 🧑‍💼 About Me
-
 I'm a passionate **Computer Science Engineering** student at **Amity University Madhya Pradesh (2022–2026)** with a CGPA of **8.61**. My curiosity for technology drives me to constantly learn, build, and solve problems. I enjoy exploring new tools and frameworks, and I'm enthusiastic about building real-world projects that make an impact.
 
 ---
-
 ## 🛠️ Skills & Technologies
 
 ### 👨‍💻 Programming Languages
@@ -34,7 +32,6 @@ I'm a passionate **Computer Science Engineering** student at **Amity University 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Seaborn](https://img.shields.io/badge/Seaborn-2D3E50?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-
 ## 🏅 Achievements
 
 - ✅ Solved **80+ problems on LeetCode**  
@@ -42,11 +39,8 @@ I'm a passionate **Computer Science Engineering** student at **Amity University 
 - 🌐 Participated in **Web3 & Open Source** event by Eduhub Community (VIT Jaipur)
 
 ---
-
 ## 🔗 Connect with Me
 
 - 📧 [Email](mailto:amanrajawat1512@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aman-rajawat-5a6582279/)  
 ---
-
-> *"Strive not to be a success, but rather to be of value."* — **Albert Einstein**
